@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_batch.iml" filepath="$PROJECT_DIR$/.idea/spring_batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbatchlecture/springbatchlecture.iml" filepath="$PROJECT_DIR$/springbatchlecture/springbatchlecture.iml" />
     </modules>
   </component>
 </project>
